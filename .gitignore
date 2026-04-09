@@ -1,0 +1,29 @@
+# Obsidian — workspace state (per-machine, noisy, conflicts on sync)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+
+# Obsidian — plugin runtime data and caches
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/.DS_Store
+.obsidian/plugins/*/node_modules/
+
+# Obsidian — trash (Obsidian's "move to .trash" setting)
+.trash/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# Editor cruft
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code / agent runtime (keep CLAUDE.md and .mcp.json tracked)
+.claude/

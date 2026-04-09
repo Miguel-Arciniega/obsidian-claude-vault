@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "obsidian-vault": {
+      "command": "C:\\Program Files\\nodejs\\npx.cmd",
+      "args": ["-y", "@bitbonsai/mcpvault@latest", "C:\\Users\\arcin\\Documents\\claude-vault"]
+    }
+  }
+}
