@@ -58,7 +58,3 @@ If you want to run a vault like this:
 4. Read `CLAUDE.md`. Adapt the tag vocabulary, folder layout, and save threshold to your own use — the spec is opinionated and tuned to one person's workflow, not a generic template.
 
 The structure is portable; the specific Topics are not.
-
-## License
-
-All Rights Reserved.
