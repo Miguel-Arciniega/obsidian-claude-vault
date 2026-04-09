@@ -53,7 +53,7 @@ Topic and Conversation notes follow the frontmatter and skeleton schemas in `CLA
 If you want to run a vault like this:
 
 1. Install Obsidian and clone (or fork) this repo into your vault folder.
-2. Install an Obsidian MCP server that exposes `read_note`, `write_note`, `patch_note`, `search_notes`, `update_frontmatter`, and `get_frontmatter`. Claude needs all six to follow the save protocol efficiently.
+2. Install https://github.com/bitbonsai/mcpvault.
 3. Point Claude (Desktop, Code, or any MCP-capable client) at the server.
 4. Read `CLAUDE.md`. Adapt the tag vocabulary, folder layout, and save threshold to your own use — the spec is opinionated and tuned to one person's workflow, not a generic template.
 
